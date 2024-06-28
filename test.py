@@ -1,1 +1,1 @@
-print ("hello buddy Welcome to whole new world")
+print ("hello bujji Welcome to whole new world")
